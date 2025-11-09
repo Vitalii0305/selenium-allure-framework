@@ -1,0 +1,12 @@
+
+[SETUP] Відкриваємо браузер...
+[STEP] Opening checkbox page
+[STEP] Opening https://demoqa.com/checkbox
+[STEP] Expanding all checkbox page
+[STEP] Clicking ('xpath', "//button[@aria-label='Expand all']")
+[STEP] Selecting checkbox
+[STEP] Clicking ('xpath', "//span[@class='rct-checkbox'][1]")
+[STEP] Getting home text
+[STEP] Getting ('xpath', "//span[text()='home']")
+
+[TEARDOWN] Закриваємо браузер...

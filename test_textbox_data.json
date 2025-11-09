@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Vitalii QA",
+    "email": "qa@test.com",
+    "current": "Kyiv",
+    "permanent": "Ukraine",
+    "should_fail":false
+  },
+  {
+    "name": "Olena Tester",
+    "email": "invalid_email@gmail.com",
+    "current": "Lviv",
+    "permanent": "Odesa",
+    "should_fail":false
+  },
+  {
+    "name": "Roman Auto",
+    "email": "roman.com",
+    "current": "Kharkiv",
+    "permanent": "Poltava",
+    "should_fail":true
+  },
+  {
+    "name": "",
+    "email": "sasha@qa",
+    "current": "Kharkiv123",
+    "permanent": "Poltava123",
+    "should_fail":true
+  }
+]
