@@ -1,0 +1,17 @@
+[
+  {
+    "name": "UI Error",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*NoSuchElementException.*"
+  },
+  {
+    "name": "Assertion Error",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*assert.*"
+  },
+  {
+    "name": "Timeout Error",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*TimeoutException.*"
+  }
+]
