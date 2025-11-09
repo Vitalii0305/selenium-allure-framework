@@ -1,0 +1,7 @@
+
+[SETUP] Відкриваємо браузер...
+[STEP] Opening https://demoqa.com/checkbox
+[STEP] Clicking ('xpath', "(//span[@class='rct-checkbox'])[1]")
+[STEP] Getting text from ('xpath', "//span[text()='home']")
+
+[TEARDOWN] Закриваємо браузер...

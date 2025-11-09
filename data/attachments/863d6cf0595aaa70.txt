@@ -1,0 +1,11 @@
+
+[SETUP] Відкриваємо браузер...
+[STEP] Opening https://demoqa.com/text-box
+[STEP] Filling ('id', 'userName') with Vitalii QA
+[STEP] Filling ('id', 'userEmail') with qa@test.com
+[STEP] Filling ('id', 'currentAddress') with Kyiv
+[STEP] Filling ('id', 'permanentAddress') with Ukraine
+[STEP] Clicking ('id', 'submit')
+[STEP] Getting text from ('id', 'output')
+
+[TEARDOWN] Закриваємо браузер...

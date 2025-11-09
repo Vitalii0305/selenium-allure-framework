@@ -1,0 +1,11 @@
+
+[SETUP] Відкриваємо браузер...
+[STEP] Opening https://demoqa.com/text-box
+[STEP] Filling ('id', 'userName') with Olena Tester
+[STEP] Filling ('id', 'userEmail') with invalid_email@gmail.com
+[STEP] Filling ('id', 'currentAddress') with Lviv
+[STEP] Filling ('id', 'permanentAddress') with Odesa
+[STEP] Clicking ('id', 'submit')
+[STEP] Getting text from ('id', 'output')
+
+[TEARDOWN] Закриваємо браузер...

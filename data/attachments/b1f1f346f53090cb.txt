@@ -1,0 +1,12 @@
+
+[SETUP] Відкриваємо браузер...
+[STEP] Opening page
+[STEP] Opening https://demoqa.com/text-box
+[STEP] Filling form , sasha@qa, Kharkiv123, Poltava123
+[STEP] Filling ('id', 'userName')
+[STEP] Filling ('id', 'userEmail')
+[STEP] Filling ('id', 'currentAddress')
+[STEP] Filling ('id', 'permanentAddress')
+[STEP] Clicking ('id', 'submit')
+
+[TEARDOWN] Закриваємо браузер...
