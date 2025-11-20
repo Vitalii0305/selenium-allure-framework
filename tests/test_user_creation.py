@@ -18,7 +18,7 @@ def test_user_creation(driver):
         assert(response.status_code == 201)
         user_data = response.json()
         allure.attach(str(user_data), name="User creation with api and audition by UI",attachment_type=AttachmentType.JSON)
-вів
+
     page = UsersPage(driver)
     page.open()
 
